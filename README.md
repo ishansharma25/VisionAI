@@ -65,3 +65,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 - LLaVA model creators and contributors
 - LangChain and Groq teams for their excellent AI tools and services
+## MODELl
+
+
+
+![1_XcUq1WU5f7HSzZbQKuPYlg](https://github.com/user-attachments/assets/0a482cf1-e57d-4013-8965-0fcbdefa1488)
