@@ -1,0 +1,7 @@
+
+.app-container {
+  background-color: black;
+  min-height: 100vh; /* Ensure the background covers the full viewport height */
+
+}
+
